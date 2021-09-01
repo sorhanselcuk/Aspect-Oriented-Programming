@@ -38,7 +38,7 @@ Aspect Oriented Programming For C# .Net Core
 	
 	object OnBefore(object[] args) -> The function equipped with Aspect is not executed. 
 					  The return value of the corresponding function is the return value from here.
-3- Propery
+3- Properties
 
 	public class Aspect
 	{
